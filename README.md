@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Capillary Technologies is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Capillary Technologies provides enterprise loyalty management software, enabling brands to engage customers through personalized rewards, campaigns, and analytics. The platform offers tools for omnichannel loyalty, AI-driven insights, and integration with e‑commerce and CRM systems, serving global enterprises across retail, travel, and finance sectors.
+
+**Areas:** Loyalty · Marketing · Software-as-a-Service · Enterprise · Customer Engagement
+
+## Capillary Technologies on APIs.io
+
+Everything profiled for Capillary Technologies is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/capillary-technologies/](https://apis.io/providers/capillary-technologies/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Capillary API](https://apis.io/apis/capillary-technologies/capillary-api/) — API documented at Capillary Documentation hub
+- [Capillary Technologies Events API](https://apis.io/apis/capillary-technologies/capillary-technologies-events-api/) — The Events API from Capillary Technologies — 2 operation(s) for events.
+- [Capillary Technologies Simulation API](https://apis.io/apis/capillary-technologies/capillary-technologies-simulation-api/) — The Simulation API from Capillary Technologies — 1 operation(s) for simulation.
+- [Capillary Technologies Webhooks API](https://apis.io/apis/capillary-technologies/capillary-technologies-webhooks-api/) — The Webhooks API from Capillary Technologies — 1 operation(s) for webhooks.
+- [Capillary Technologies X API](https://apis.io/apis/capillary-technologies/capillary-technologies-x-api/) — The X API from Capillary Technologies — 1 operation(s) for x.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [GetV2EventsEventidResponse](https://apis.io/schemas/capillary-technologies/capillary-technologies-get-v2-events-eventid-response/)
+- [PostXNeoCustomeridTierupgradeRequest](https://apis.io/schemas/capillary-technologies/capillary-technologies-post-xneo-customerid-tierupgrade-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Capillary Technologies Context](https://apis.io/jsonld/capillary-technologies/capillary-technologies-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Capillary Technologies API Rules](https://apis.io/rules/capillary-technologies/capillary-technologies-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Capillary Technologies Authentication](https://apis.io/security/capillary-technologies/capillary-technologies-authentication/)
+- [Capillary Technologies Domain Security](https://apis.io/security/capillary-technologies/capillary-technologies-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Capillary Technologies Rate Limits](https://apis.io/rate-limits/capillary-technologies/capillary-technologies-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.capillarytech.com/)
+- [Documentation](https://docs.capillarytech.com/)
+- [Getting started](https://docs.capillarytech.com/docs/getting-started-with-capillary)
+
+## API Evangelist rating
+
+**Kin Score 25.2** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 68.3 |
+| Contract quality | 21.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 0.0 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/capillary-technologies/](https://apis.io/providers/capillary-technologies/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Capillary Technologies: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/capillary-technologies/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
